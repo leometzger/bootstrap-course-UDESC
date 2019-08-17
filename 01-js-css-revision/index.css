@@ -1,0 +1,29 @@
+.container {
+  width: 100%;
+}
+
+.value_pair {
+  color: royalblue;
+}
+
+.value_odd {
+  color: darkgreen;
+}
+
+.value {
+  font-size: 100px;
+}
+
+button {
+  height: 3em;
+  width: 8em;
+  color: whitesmoke;
+}
+
+.btn_increment {
+  background-color: royalblue; 
+}
+
+.btn_decrement {
+  background-color: maroon;
+}
